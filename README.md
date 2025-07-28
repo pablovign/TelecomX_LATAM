@@ -84,11 +84,6 @@ pip install pandas numpy matplotlib seaborn
 
 ## 📌 Autor
 
-- 📧 *Tu Nombre* – *tu.email@ejemplo.com*
+- 📧 *Tu Nombre* – *pablovignoni@gmail.com*
 - 💼 Proyecto realizado como parte de un desafío de análisis de datos.
 
----
-
-## 📝 Licencia
-
-Este proyecto se comparte con fines educativos y puede ser reutilizado con fines no comerciales.
